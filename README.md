@@ -1,4 +1,4 @@
-# Plaid Link Sample Android App [![version][link-sdk-version]][link-sdk-url]
+# Plaid Link Sample Android App 
 This sample app will show you how Link Android SDK can integrate with your own app in both Kotlin and Java. Check out [the benefits](./docs/sdk-vs-webview-comparison.md) of using the SDK. 
 
 
